@@ -69,5 +69,18 @@ src/
 ```
 
 ## 🎯 How to Run
-
+1.Clone the repository:
+```bash
+git clone https://github.com/SR-Shan007/Game_Project_007
+```
+2.Open the project in IntelliJ IDEA / Eclipse / NetBeans
+3.Compile and run:
+```
+javac Main.java
+java Main
+```
+## 🧩 Controls
+⬅️ Left Arrow → Move paddle left
+➡️ Right Arrow → Move paddle right
+Space → Start
 
