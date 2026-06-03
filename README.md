@@ -85,10 +85,10 @@ java Main
 - ➡️ Right Arrow → Move paddle right  
 - Space → Start / Pause (if implemented)
 
-## 👨‍💻 Author
+## 👤 Team Members
 
-Name : Saimor Rahman Shan
-Reg No : 2023831031
-Name : Nerob Chandra Nondi
-Reg No : 2023831036
+1. Name   : Saimor Rahman Shan  
+   Reg No : 2023831031  
 
+2. Name   : Nerob Chandra Nondi  
+   Reg No : 2023831036  
