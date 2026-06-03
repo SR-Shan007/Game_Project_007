@@ -28,6 +28,9 @@ It follows the same core mechanics:
 
 ---
 
+## 🧱 Screenshots
+
+
 ## 🚀 Features
 
 - Smooth paddle movement
