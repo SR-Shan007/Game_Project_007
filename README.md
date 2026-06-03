@@ -31,7 +31,7 @@ It follows the same core mechanics:
 ## 🧱 Screenshots
 
 ![image](https://github.com/SR-Shan007/Game_Project_007/blob/2916119d1cf8e9fac311d31d5c2b0a8b98c0c9c8/Screenshot%202026-06-03%20162501.png)
-
+![image](https://github.com/SR-Shan007/Game_Project_007/blob/0b91e16b1824f2f99525c63aaabe2a4f8f714c2c/Screenshot%202026-06-03%20162547.png)
 
 
 
