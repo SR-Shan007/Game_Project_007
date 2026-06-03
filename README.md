@@ -1,7 +1,7 @@
 # 🧱 Game Project 007
 
 A classic **Arkanoid / Breakout-style 2D arcade game** built using Java.  
-The goal of the game is simple yet addictive: control the paddle, bounce the ball, and destroy all the bricks to clear all bricks.
+The goal of the game is simple yet addictive: control the paddle, bounce the ball, and destroy all the bricks to clear the game.
 
 ---
 
