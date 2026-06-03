@@ -80,7 +80,8 @@ javac Main.java
 java Main
 ```
 ## 🧩 Controls
-⬅️ Left Arrow → Move paddle left
-➡️ Right Arrow → Move paddle right
-Space → Start
+
+- ⬅️ Left Arrow → Move paddle left  
+- ➡️ Right Arrow → Move paddle right  
+- Space → Start / Pause (if implemented)
 
