@@ -85,3 +85,7 @@ java Main
 - ➡️ Right Arrow → Move paddle right  
 - Space → Start / Pause (if implemented)
 
+## 👨‍💻 Author
+
+- GitHub: SR-Shan007  
+- GitHub: nerob001
