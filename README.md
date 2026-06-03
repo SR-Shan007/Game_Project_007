@@ -58,11 +58,14 @@ It follows the same core mechanics:
 
 ```text
 src/
-├── Main.java
-├── GamePanel.java
+
 ├── Ball.java
-├── Paddle.java
 ├── Brick.java
+├── Entity.java
+├── GamePanel.java
+├── KeyHandler.java
+├── Main.java
+├── Paddle.java
 ```
 
 ## 🎯 How to Run
