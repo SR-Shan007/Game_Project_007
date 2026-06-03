@@ -87,5 +87,8 @@ java Main
 
 ## 👨‍💻 Author
 
-- GitHub: SR-Shan007  
-- GitHub: nerob001
+Name : Saimor Rahman Shan
+Reg No : 2023831031
+Name : Nerob Chandra Nondi
+Reg No : 2023831036
+
