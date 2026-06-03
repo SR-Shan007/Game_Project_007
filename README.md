@@ -29,6 +29,7 @@ It follows the same core mechanics:
 ---
 
 ## 🧱 Screenshots
+![image alt]https://github.com/SR-Shan007/Game_Project_007/blob/d091cae80dacf275523b46167d7821739d106b8b/Screenshot%202026-06-03%20162501.png
 
 
 ## 🚀 Features
