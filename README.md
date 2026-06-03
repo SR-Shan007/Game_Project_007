@@ -33,6 +33,8 @@ It follows the same core mechanics:
 ![image](https://github.com/SR-Shan007/Game_Project_007/blob/2916119d1cf8e9fac311d31d5c2b0a8b98c0c9c8/Screenshot%202026-06-03%20162501.png)
 
 
+
+
 ## 🚀 Features
 
 - Smooth paddle movement
