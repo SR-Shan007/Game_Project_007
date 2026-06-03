@@ -56,11 +56,11 @@ It follows the same core mechanics:
 
 ## 📁 Project Structure
 src/
-├── Main.java
-├── GamePanel.java
-├── Ball.java
-├── Paddle.java
-├── Brick.java
+-├── Main.java
+-├── GamePanel.java
+-├── Ball.java
+-├── Paddle.java
+-├── Brick.java
 
 ## 🎯 How to Run
 
