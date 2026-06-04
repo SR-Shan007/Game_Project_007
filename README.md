@@ -64,6 +64,7 @@ src/
 ├── KeyHandler.java
 ├── Main.java
 ├── Paddle.java
+├── Sound.java
 ```
 
 ## 🎯 How to Run
