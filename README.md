@@ -41,6 +41,7 @@ It follows the same core mechanics:
 - Brick layout system
 - Score system
 - Simple 2D game logic
+- Sound effects added for game events
 
 ---
 
@@ -83,6 +84,7 @@ java Main
 - ⬅️ Left Arrow → Move paddle left  
 - ➡️ Right Arrow → Move paddle right  
 - Space → Start
+- Sound: ON by default
 
 ## 👤 Team Members
 
